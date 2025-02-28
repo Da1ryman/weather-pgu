@@ -7,7 +7,7 @@ export class AppController {
 
   @Get()
   getHello() {
-    return "Hello, this my first project."
+    return "Hello, this my first project in Backend development."
   }
 
 }
